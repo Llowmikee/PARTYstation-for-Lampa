@@ -4,18 +4,6 @@
 
 ## Установка
 
-### Вариант 1: через GitHub / raw-ссылку
-
-После публикации в GitHub добавьте raw-ссылку на `partystation.js` в загрузчик плагинов Lampa/Lampac.
-
-Пример формата:
-
-```js
-'https://raw.githubusercontent.com/USER/REPO/main/partystation.js'
-```
-
-### Вариант 2: локально
-
 Скопируйте `partystation.js` в папку `wwwroot/plugins/` и добавьте в loader:
 
 ```js
